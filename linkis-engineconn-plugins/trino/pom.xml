@@ -64,7 +64,7 @@
     <dependency>
       <groupId>io.trino</groupId>
       <artifactId>trino-client</artifactId>
-      <version>${trino.version}</version>
+      <version>412</version>
     </dependency>
   </dependencies>
 

@@ -107,7 +107,7 @@
     <dependency>
       <groupId>io.fabric8</groupId>
       <artifactId>kubernetes-client</artifactId>
-      <version>${kubernetes-client.version}</version>
+      <version>6.7.0</version>
       <exclusions>
         <exclusion>
           <groupId>io.fabric8</groupId>

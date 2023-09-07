@@ -76,7 +76,7 @@
     <dependency>
       <groupId>com.github.pjfanning</groupId>
       <artifactId>excel-streaming-reader</artifactId>
-      <version>4.0.5</version>
+      <version>4.1.0</version>
     </dependency>
 
     <dependency>
@@ -87,7 +87,7 @@
     <dependency>
       <groupId>com.aliyun.oss</groupId>
       <artifactId>aliyun-sdk-oss</artifactId>
-      <version>3.16.0</version>
+      <version>3.16.1</version>
     </dependency>
     <dependency>
       <groupId>org.jdom</groupId>
